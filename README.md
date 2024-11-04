@@ -3137,6 +3137,20 @@ require('@unicode/unicode-10.0.0/Word_Break/ZWJ/code-points.js');
 require('@unicode/unicode-10.0.0/Word_Break/ZWJ/symbols.js');
 require('@unicode/unicode-10.0.0/Word_Break/ZWJ/regex.js');
 
+// `Simple_Case_Mapping`:
+
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Lowercase/code-points.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Lowercase/symbols.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Lowercase/regex.js');
+
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Titlecase/code-points.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Titlecase/symbols.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Titlecase/regex.js');
+
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Uppercase/code-points.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Uppercase/symbols.js');
+require('@unicode/unicode-10.0.0/Simple_Case_Mapping/Uppercase/regex.js');
+
 // `Special_Casing`:
 
 require('@unicode/unicode-10.0.0/Special_Casing/Lowercase/code-points.js'); // lookup map from code point to code point or array of code points
