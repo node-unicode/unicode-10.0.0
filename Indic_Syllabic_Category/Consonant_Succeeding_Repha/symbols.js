@@ -1,0 +1,1 @@
+module.exports=['\u17CC','\u1A5A','\u1B03','\u1B81','\uA982']
