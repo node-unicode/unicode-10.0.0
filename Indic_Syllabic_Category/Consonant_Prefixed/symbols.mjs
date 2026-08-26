@@ -1,0 +1,1 @@
+export default ['\uD804\uDDC2','\uD804\uDDC3','\uD806\uDE3A','\uD806\uDE86','\uD806\uDE87','\uD806\uDE88','\uD806\uDE89'];
