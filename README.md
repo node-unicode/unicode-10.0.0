@@ -3499,6 +3499,32 @@ import UCodePoints from '@unicode/unicode-10.0.0/Vertical_Orientation/U/code-poi
 import USymbols from '@unicode/unicode-10.0.0/Vertical_Orientation/U/symbols.mjs';
 import URegex from '@unicode/unicode-10.0.0/Vertical_Orientation/U/regex.mjs';
 
+// `Joining_Type`:
+
+import Dual_JoiningCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Dual_Joining/code-points.mjs';
+import Dual_JoiningSymbols from '@unicode/unicode-10.0.0/Joining_Type/Dual_Joining/symbols.mjs';
+import Dual_JoiningRegex from '@unicode/unicode-10.0.0/Joining_Type/Dual_Joining/regex.mjs';
+
+import Join_CausingCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Join_Causing/code-points.mjs';
+import Join_CausingSymbols from '@unicode/unicode-10.0.0/Joining_Type/Join_Causing/symbols.mjs';
+import Join_CausingRegex from '@unicode/unicode-10.0.0/Joining_Type/Join_Causing/regex.mjs';
+
+import Left_JoiningCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Left_Joining/code-points.mjs';
+import Left_JoiningSymbols from '@unicode/unicode-10.0.0/Joining_Type/Left_Joining/symbols.mjs';
+import Left_JoiningRegex from '@unicode/unicode-10.0.0/Joining_Type/Left_Joining/regex.mjs';
+
+import Non_JoiningCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Non_Joining/code-points.mjs';
+import Non_JoiningSymbols from '@unicode/unicode-10.0.0/Joining_Type/Non_Joining/symbols.mjs';
+import Non_JoiningRegex from '@unicode/unicode-10.0.0/Joining_Type/Non_Joining/regex.mjs';
+
+import Right_JoiningCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Right_Joining/code-points.mjs';
+import Right_JoiningSymbols from '@unicode/unicode-10.0.0/Joining_Type/Right_Joining/symbols.mjs';
+import Right_JoiningRegex from '@unicode/unicode-10.0.0/Joining_Type/Right_Joining/regex.mjs';
+
+import TransparentCodePoints from '@unicode/unicode-10.0.0/Joining_Type/Transparent/code-points.mjs';
+import TransparentSymbols from '@unicode/unicode-10.0.0/Joining_Type/Transparent/symbols.mjs';
+import TransparentRegex from '@unicode/unicode-10.0.0/Joining_Type/Transparent/regex.mjs';
+
 // `Simple_Case_Mapping`:
 
 import LowercaseCodePoints from '@unicode/unicode-10.0.0/Simple_Case_Mapping/Lowercase/code-points.mjs'; // Lookup map from code point to code point or array of code points.
