@@ -1,1 +1,0 @@
-module.exports=['\uA9BF']

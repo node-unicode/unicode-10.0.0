@@ -1,1 +1,0 @@
-module.exports=/\uD81B\uDFE1|\uD82C[\uDD70-\uDEFB]/
