@@ -2503,6 +2503,10 @@ import NewaCodePoints from '@unicode/unicode-10.0.0/Block/Newa/code-points.mjs';
 import NewaSymbols from '@unicode/unicode-10.0.0/Block/Newa/symbols.mjs';
 import NewaRegex from '@unicode/unicode-10.0.0/Block/Newa/regex.mjs';
 
+import No_BlockCodePoints from '@unicode/unicode-10.0.0/Block/No_Block/code-points.mjs';
+import No_BlockSymbols from '@unicode/unicode-10.0.0/Block/No_Block/symbols.mjs';
+import No_BlockRegex from '@unicode/unicode-10.0.0/Block/No_Block/regex.mjs';
+
 import Number_FormsCodePoints from '@unicode/unicode-10.0.0/Block/Number_Forms/code-points.mjs';
 import Number_FormsSymbols from '@unicode/unicode-10.0.0/Block/Number_Forms/symbols.mjs';
 import Number_FormsRegex from '@unicode/unicode-10.0.0/Block/Number_Forms/regex.mjs';
